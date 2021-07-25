@@ -1,0 +1,58 @@
+/* ------------- Utilities -----------*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.buy-button{
+    text-decoration : none;
+    border:1px solid red;
+    background-image: linear-gradient(#FF589B,#FF136F);
+    color: #ffff;
+    padding:8px 10px;
+    border-radius:10px;
+}
+.buy-button:hover{
+    color: #ffff;
+}
+.card-shadow{
+    box-shadow:5px 5px 10px lightgray;
+}
+
+/* ------------- Header Area -----------*/
+.img-slider{
+    margin-top:70px;
+}
+/* ------------- Categories Area -----------*/
+#categories{
+    margin-top:100px;
+    margin-bottom:100px;
+}
+#categories h2{
+    color: #ffff;
+}
+#categories img{
+    width: 90px;
+}
+/* ------------- Shoes Area -----------*/
+#shoes{
+    margin-bottom: 100px;
+}
+.footer-area{
+    margin: 5px 5px 30px 15px;
+}
+/* ------------- Bags Area -----------*/
+#backpack{
+    margin-bottom: 100px;
+}
+/* ------------- Subscribe Area -----------*/
+#subscribe{
+    margin-bottom:100px;
+    height:350px;
+    background-color:#FEEAE9;
+    border-radius: 10px;
+}
+/* ------------- Footer Area -----------*/
+marquee{
+    border-top: 3px solid lightgray;
+    padding-top:10px;
+}
