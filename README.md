@@ -1,2 +1,2 @@
 #Bags-Shoes-e-commerce live link: 
-https://simplysamiul.github.io/Bags-Shoes-e-commerce/
+https://sad-murdock-2a36ee.netlify.app/
